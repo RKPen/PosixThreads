@@ -9,8 +9,6 @@ different processing units. However, we tend to see that at a certain point addi
 For array size,we sometimes see that a larger array with a specific number of threads runs better this may be due to good load balancing among threads and thus leads to better
 utilization of resources and may potentially reduce runtime.  
 
-
-
 count_cache.c:
 
 1. one thread(1000): 
